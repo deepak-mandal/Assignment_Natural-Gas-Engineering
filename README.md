@@ -1,7 +1,7 @@
 # Assignment_Natural-Gas-Engineering
 Python, Pandas, NumPy
-<br>
-Group Project Data Analysis Result
-<img src="img/consumption.png">
-<img src="img/demandSupply.png">
-<img src="img/supply.png">
+<br><hr>
+<h6>Group Project Data Analysis Result</h6>
+<div><img src="img/consumption.png"></div>
+<div><img src="img/demandSupply.png"></div>
+<div><img src="img/supply.png"></div>
